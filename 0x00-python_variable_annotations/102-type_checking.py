@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 12's module.
+'''Using mypy to validate the a piece of code and applying necessary changes.
 '''
 from typing import List, Tuple
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 11's module.
+'''Given the parameters and the return values, add type annotations to the function
 '''
 from typing import Any, Mapping, Union, TypeVar
 

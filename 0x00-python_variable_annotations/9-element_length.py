@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 9's module.
+'''Annotate the below function’s parameters and return values with the appropriate types
 '''
 from typing import Iterable, List, Sequence, Tuple
 
