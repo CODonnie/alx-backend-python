@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''async routine called wait_n that takes in 2 int arguments (in this order): n and max_delay.
+'''async routine that takes in 2 int arguments.
 '''
 import asyncio
 from typing import List
