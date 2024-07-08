@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''normal function task_wait_random that takes an integer max_delay and returns a asyncio.Task.
+'''normal function task_wait_random that takes an integer max_delay
 '''
 import asyncio
 
